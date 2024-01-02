@@ -10,7 +10,11 @@ Affiliation: Currently enrolled in the Master's program at Chonnam National Univ
 
 ### 🌱 Experience 
 
+Coming Soon
+
 ### 😄 License
+
+Coming Soon
 
 <!--
 **kingyoubin/kingyoubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
