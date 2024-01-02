@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+"Name: Yubin Kim
+Interests: IoT, Forensic, Security
+Affiliation: Currently enrolled in the Master's program at Chonnam National University."
+
+
+
+### 😄 Experience 
+
+### License
+
 <!--
 **kingyoubin/kingyoubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
