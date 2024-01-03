@@ -15,7 +15,8 @@ TBU
 ### 😄 License
 
 TBU
-(광주 -인천 연수증.jpg)[]
+
+[광주 -인천 연수증.jpg]()
 
 <!--
 **kingyoubin/kingyoubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
