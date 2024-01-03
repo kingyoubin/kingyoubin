@@ -7,17 +7,25 @@ Interests: IoT, Forensic, Security
 Affiliation: Currently enrolled in the Master's program at Chonnam National University
 
 
+### 📈 Conference
+
 
 ### 🌱 Experience 
 
 TBU
 
-### 😄 License
+### 😄 Certificate
 
-TBU
+      * Engineer Information Processing (정보처리기사)
 
-![](./%EA%B4%91%EC%A3%BC%20-%EC%9D%B8%EC%B2%9C%20%EC%97%B0%EC%88%98%EC%A6%9D.jpg)
-![](./%EA%B4%91%EC%A3%BC%20-%EC%9D%B8%EC%B2%9C%20%EC%97%B0%EC%88%98%EC%A6%9D.jpg)
+
+### ➕ Award
+
+
+
+
+
+
 
 <!--
 **kingyoubin/kingyoubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
