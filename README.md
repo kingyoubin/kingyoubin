@@ -16,7 +16,7 @@ TBU
 
 TBU
 
-![](.\광주-인천 연수증.jpg)
+![](https://github.com/kingyoubin/kingyoubin/blob/main/%EA%B4%91%EC%A3%BC%20-%EC%9D%B8%EC%B2%9C%20%EC%97%B0%EC%88%98%EC%A6%9D.jpg)
 
 <!--
 **kingyoubin/kingyoubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
