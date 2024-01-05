@@ -8,7 +8,7 @@ Affiliation: Currently enrolled in the Master's program at Chonnam National Univ
 
 
 ### 📈 Conference
-
+* 2023년 한국융합보안학회 하계학술대회 , 범죄사고 조사를 위한 스마트 홈 플랫폼 증거물 수집 및 활용방안 연구
 
 ### 🌱 Experience 
 
