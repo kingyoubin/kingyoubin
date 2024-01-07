@@ -17,7 +17,7 @@ Affiliation: Currently enrolled in the Master's program at Chonnam National Univ
 
 ### 🌱 Experience 
 
-TBU
+K-Shield Junior 8th (2022.06 ~ 2022.09)
 
 ### 😄 Certificate
 
