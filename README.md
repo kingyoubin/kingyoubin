@@ -9,6 +9,18 @@ Affiliation: Currently enrolled in the Master's program at Chonnam National Univ
 Interests: IoT, Forensic, Security
 
 
+## 💡 Experience 
+
+* K-Shield Junior 8th, penetration testing track, 2022.06 ~ 2022.09
+
+## 😄 Certificate
+
+* [Engineer Information Processing](https://github.com/kingyoubin/kingyoubin/blob/main/certificate/Engineer%20Information%20Processing.pdf) (정보처리기사)
+
+## ➕ Award
+
+* 2022년 제3회 KOSPO 웹서비스 정보보안 경진대회 장려상
+* 2023년 한국융합보안학회 하계학술대회 우수논문상 : 범죄사고 조사를 위한 스마트 홈 플랫폼 증거물 수집 및 활용방안 연구
 
 ## 📈 Conference
 
@@ -26,19 +38,6 @@ Interests: IoT, Forensic, Security
 ## 📃 Publications
 
 **TBC**
-
-## 💡 Experience 
-
-* K-Shield Junior 8th, penetration testing track, 2022.06 ~ 2022.09
-
-## 😄 Certificate
-
-* [Engineer Information Processing](https://github.com/kingyoubin/kingyoubin/blob/main/certificate/Engineer%20Information%20Processing.pdf) (정보처리기사)
-
-## ➕ Award
-
-* 2022년 제3회 KOSPO 웹서비스 정보보안 경진대회 장려상
-* 2023년 한국융합보안학회 하계학술대회 우수논문상 : 범죄사고 조사를 위한 스마트 홈 플랫폼 증거물 수집 및 활용방안 연구
 
 
 
