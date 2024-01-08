@@ -29,7 +29,7 @@ Interests: IoT, Forensic, Security
 
 ## 💡 Experience 
 
-K-Shield Junior 8th (2022.06 ~ 2022.09)
+* K-Shield Junior 8th, penetration testing track, 2022.06 ~ 2022.09
 
 ## 😄 Certificate
 
