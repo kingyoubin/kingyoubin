@@ -1,10 +1,12 @@
-# Hi there 👋
+# Introduction 
 
 Name: Yubin Kim
 
-Interests: IoT, Forensic, Security
+E-mail : kingyoubin97@jnu.ac.kr
 
 Affiliation: Currently enrolled in the Master's program at Chonnam National University
+
+Interests: IoT, Forensic, Security
 
 
 
