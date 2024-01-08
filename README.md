@@ -33,7 +33,7 @@ Interests: IoT, Forensic, Security
 
 ## 😄 Certificate
 
-* Engineer Information Processing (정보처리기사)
+* [Engineer Information Processing](https://github.com/kingyoubin/kingyoubin/blob/main/certificate/Engineer%20Information%20Processing.pdf) (정보처리기사)
 
 ## ➕ Award
 
